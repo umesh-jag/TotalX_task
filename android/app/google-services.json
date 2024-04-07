@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15871447023",
+    "project_id": "totalx-e598f",
+    "storage_bucket": "totalx-e598f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15871447023:android:a2f17f7c73680b4e3ef01a",
+        "android_client_info": {
+          "package_name": "com.example.totalx_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa7PfoGxT5oBvT0zaO4ryH9YO2TFKzfNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
